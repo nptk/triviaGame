@@ -1,7 +1,7 @@
 {
   "any": [
     {
-      "name": "newbie",
+      "name": "testerAny",
       "score": 2
     }
   ],
@@ -13,13 +13,13 @@
   ],
   "medium": [
     {
-      "name": "tester Med",
+      "name": "testerMedium",
       "score": 10
     }
   ],
   "hard": [
     {
-      "name": "GG",
+      "name": "testerHard",
       "score": 20
     }
   ]
