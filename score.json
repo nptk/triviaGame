@@ -1,25 +1,26 @@
 {
-  "any": 
+  "any": [
     {
       "name": "tester-Any",
-      "score": 0
-    }
-  ,
-  "easy": 
-    {
-      "name": "tester-Easy",
       "score": 1
     }
-  ,
-  "medium": 
+  ],
+  "easy": [
     {
-      "name": "tester-Medium",
+      "name": "tester-Easy",
       "score": 2
     }
-  ,
-  "hard": 
+  ],
+  "medium": [
     {
-      "name": "tester-Hard",
+      "name": "tester-Medium",
       "score": 3
     }
+  ],
+  "hard": [
+    {
+      "name": "tester-Hard",
+      "score": 4
+    }
+  ]
 }
