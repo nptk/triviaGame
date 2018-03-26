@@ -1,26 +1,26 @@
 {
   "any": [
     {
-      "name": "tester-Any",
-      "score": 1
+      "name": "newbie",
+      "score": 2
     }
   ],
   "easy": [
     {
-      "name": "tester-Easy",
-      "score": 2
+      "name": "testerEasy",
+      "score": 3
     }
   ],
   "medium": [
     {
-      "name": "tester-Medium",
-      "score": 3
+      "name": "tester Med",
+      "score": 10
     }
   ],
   "hard": [
     {
-      "name": "tester-Hard",
-      "score": 4
+      "name": "GG",
+      "score": 20
     }
   ]
 }
