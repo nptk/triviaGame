@@ -1,0 +1,26 @@
+{
+  "any": [
+    {
+      "name": "newbie",
+      "score": 2
+    }
+  ],
+  "easy": [
+    {
+      "name": "testerEasy",
+      "score": 3
+    }
+  ],
+  "medium": [
+    {
+      "name": "tester Med",
+      "score": 10
+    }
+  ],
+  "hard": [
+    {
+      "name": "GG",
+      "score": 20
+    }
+  ]
+}
