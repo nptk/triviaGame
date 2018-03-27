@@ -700,10 +700,10 @@ public class trivia extends javax.swing.JFrame {
                 baseURL += "&difficulty=easy";
                 break;
             case 2: // med
-                baseURL = "&difficulty=medium";
+                baseURL += "&difficulty=medium";
                 break;
             case 3: //hard
-                baseURL = "&difficulty=hard";
+                baseURL += "&difficulty=hard";
                 break;
             default: //any
                 break;
